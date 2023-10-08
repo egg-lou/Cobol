@@ -19,7 +19,7 @@ COBOL comes with a set of features that make it suitable for business-oriented p
 
 - **Structured Programming:** While COBOL is often associated with older programming paradigms, modern versions of COBOL support structured programming features, including subroutines and modular code.
 
-### Getting Started
+### Getting Started (Using WSL to Run COBOL Compiler)
 
 Pre - Requisites(Software Needed and Configurations)
 
@@ -30,7 +30,6 @@ Pre - Requisites(Software Needed and Configurations)
 |VSCode|Development IDE [VSCode Download Link](https://code.visualstudio.com/download)|
 |Remote WSL | To use WSL, [VSCode Extension WSL Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) |
 |COBOL VSCode Extenesion | COBOL lines and snippets [VSCode Extension COBOL Link](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)|
-|------|------|
 
 1. Enable WSL on windows 10/11
 - Follow this guide [Enable WSL on Windows](https://woshub.com/install-wsl-windows-subsystem-linux/#:~:text=By%20default%2C%20WSL%20is%20disabled,OK%2C%20and%20restart%20your%20computer.&text=Then%20you%20need%20to%20restart%20your%20computer.)
