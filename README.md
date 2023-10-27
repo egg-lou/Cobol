@@ -60,8 +60,8 @@ sudo apt-get install gnucobol
 3. Open the terminal and change the terminal profile to **Debian WSL**
 4. Run this command
 ```linux
-cobc -x  hello.cbl
-./hello
+cobc -x  hello.cbl -o hello.exe
+./hello.exe
 ```
 
 Voila your first program in COBOL!
